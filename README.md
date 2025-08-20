@@ -9,7 +9,7 @@ A simple and beautiful tourism website created using HTML, CSS, and JavaScript.
 
 ## Authors
 - Hrashal Suryawanshi(https://github.com/harshalkpatil2311)
-- Nikhil Patil(https://github.com/dost-username)
+- Nikhil Patil(https://github.com/npatil-9322)
 
 ## Live Demo
 [Click Here](https://harshalkpatil2311.github.io/Tourism_Website/)
